@@ -1,4 +1,4 @@
-# tes
+# Simple Weather App Vue JS
 
 ## Project setup
 ```
